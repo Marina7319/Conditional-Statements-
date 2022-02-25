@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\ref\Sum Seconds.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\bin\Debug\net5.0\Sum Seconds.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\ref\Sum Seconds.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Sum Seconds\obj\Debug\net5.0\Sum Seconds.genruntimeconfig.cache

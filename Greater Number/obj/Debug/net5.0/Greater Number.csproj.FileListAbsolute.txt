@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\ref\Greater Number.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\bin\Debug\net5.0\Greater Number.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\ref\Greater Number.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Greater Number\obj\Debug\net5.0\Greater Number.genruntimeconfig.cache

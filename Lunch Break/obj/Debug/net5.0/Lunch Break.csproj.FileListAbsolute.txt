@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\ref\Lunch Break.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\bin\Debug\net5.0\Lunch Break.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\ref\Lunch Break.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.genruntimeconfig.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Lunch Break\obj\Debug\net5.0\Lunch Break.csproj.AssemblyReference.cache

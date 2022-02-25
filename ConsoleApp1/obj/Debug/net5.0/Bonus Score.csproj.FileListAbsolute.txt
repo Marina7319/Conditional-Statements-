@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\ref\Bonus Score.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\bin\Debug\net5.0\Bonus Score.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\ref\Bonus Score.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\ConsoleApp1\obj\Debug\net5.0\Bonus Score.genruntimeconfig.cache

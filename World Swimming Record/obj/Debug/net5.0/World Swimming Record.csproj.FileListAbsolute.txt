@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\ref\World Swimming Record.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\bin\Debug\net5.0\World Swimming Record.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\ref\World Swimming Record.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\World Swimming Record\obj\Debug\net5.0\World Swimming Record.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReshenieOperaciiMejduChisla/1.0.0": {
+        "runtime": {
+          "ReshenieOperaciiMejduChisla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReshenieOperaciiMejduChisla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

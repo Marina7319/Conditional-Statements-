@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\ref\Godzilla vs. Kong.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\bin\Debug\net5.0\Godzilla vs. Kong.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\ref\Godzilla vs. Kong.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Godzilla vs. Kong\obj\Debug\net5.0\Godzilla vs. Kong.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\ref\Excellent Result.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\bin\Debug\net5.0\Excellent Result.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\ref\Excellent Result.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Excellent Result\obj\Debug\net5.0\Excellent Result.genruntimeconfig.cache

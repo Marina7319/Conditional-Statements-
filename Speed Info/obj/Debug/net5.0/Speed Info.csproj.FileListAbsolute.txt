@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\ref\Speed Info.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\bin\Debug\net5.0\Speed Info.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\ref\Speed Info.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.genruntimeconfig.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Speed Info\obj\Debug\net5.0\Speed Info.csproj.AssemblyReference.cache

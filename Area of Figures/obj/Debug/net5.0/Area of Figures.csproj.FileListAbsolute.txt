@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.exe
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.deps.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\ref\Area of Figures.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\bin\Debug\net5.0\Area of Figures.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\ref\Area of Figures.dll
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.pdb
+C:\Users\Marina\source\repos\Conditional Statements - Lab\Area of Figures\obj\Debug\net5.0\Area of Figures.genruntimeconfig.cache
